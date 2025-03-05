@@ -1,0 +1,9 @@
+/target/
+/gym/
+tmp/*
+.DS_Store
+.project
+.classpath
+.settings/
+.idea/
+.metadata
