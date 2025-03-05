@@ -17,7 +17,9 @@ The game shows a bowling ball and a number of small boxes. The aim is to roll th
 
 ### Running the demo
 
-This is a Maven project. Import the project into Eclipse IDE. Then run the demo-test-class (see below) as a Junit test.
+* This is a Maven project. Import the project into Eclipse IDE.
+* In Eclipse, change the project properties --> Java Build Path: add `./libs/JME/jMonkeyEngine3.jar` as an external jar to the project build path.
+* Then run the demo-test-class (see below) as a Junit test.
 
 ### Sample `aplib` test
 
